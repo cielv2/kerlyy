@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281997496643']
-global.ownernomer = "6281997496643"
-global.premium = ['6281997496643']
-global.packname = 'Sticker By'
-global.author = '𝕬𝖓𝖌𝖌𝖆𝕭𝖔𝖙𝖟'
+global.owner = ['6288212912038']
+global.ownernomer = "6288212912038"
+global.premium = ['6288212912038']
+global.packname = 'created by'
+global.author = 'karylbotz'
 global.sessionName = 'angga'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -59,15 +59,15 @@ global.thumb = fs.readFileSync('./media/image/angga.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/AnggaXyzZ'
-global.myyt = 'https://youtube.com/channel/UCY89Fb9pCVUeMqEGikvOhNQ'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/I1mlONQxvBlIk5lK7MnOfk"
+global.mygit = 'https://github.com/cielv2'
+global.myyt = 'https://youtube.com/@ciel-sama'
+global.myytv = 'https://youtube.com/shorts/u6q-2wKkRfM?feature=share'
+global.mygc = "https://chat.whatsapp.com/EklKM7VFqfUFnu99kyLIRI"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = '𝕬𝖓𝖌𝖌𝖆𝕭𝖔𝖙𝖟'
-global.akulaku = 'Bot By Angga'
-global.ytname = 'YT AnggaXyzz' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'karylbotz'
+global.akulaku = 'created by ciel-sama'
+global.ytname = 'ciel-sama' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
